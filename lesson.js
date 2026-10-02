@@ -1,1 +1,1 @@
-crossOriginIsolated.log("Hello")
+crossOriginIsolated.log("Hel    lo")
